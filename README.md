@@ -1165,7 +1165,6 @@
 - [vikingco/django-states2](https://github.com/vikingco/django-states2) - State machine for django models.
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [mpasternak/django-monitio](https://github.com/mpasternak/django-monitio) - Unified, persistent user messages with live notifications via SSE for Django.
-- [heroku-python/dj-static](https://github.com/heroku-python/dj-static) - DEPRECATED - use WhiteNoise instead!
 - [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [theskumar/django-unsubscribe](https://github.com/theskumar/django-unsubscribe) - Add unsubscribe link to your emails painlessly.
@@ -1461,7 +1460,6 @@
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-- [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
