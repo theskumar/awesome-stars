@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
@@ -739,7 +740,7 @@
 - [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
-- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive - without loading the entire ZIP file or any of its files into memory at once
+- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive on the fly
 - [melvinkcx/graphql-utilities](https://github.com/melvinkcx/graphql-utilities) - Oneshot middleware, query cost analysis, depth limiting, etc for graphql-core&gt;=3.0 (formerly, graphql-core-next)
 - [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer) - Optimize database access inside graphene queries
 - [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
@@ -1411,6 +1412,7 @@
 
 ## Swift 
 
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
