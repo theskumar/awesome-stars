@@ -174,10 +174,11 @@
 
 ## Go 
 
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1157,7 +1158,6 @@
 - [zacharyvoase/django-qmethod](https://github.com/zacharyvoase/django-qmethod) - Easily define methods over collections of Django models.
 - [sloria/konch](https://github.com/sloria/konch) - Configures your Python shell.
 - [nvbn/django-bower](https://github.com/nvbn/django-bower) - Easy way to use bower with your django project
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [HassenPy/django-pdb](https://github.com/HassenPy/django-pdb) - Gives you `manage.py runserver --pdb` and `manage.py test --pdb`
 - [lingthio/Flask-User](https://github.com/lingthio/Flask-User) - Customizable User Authorization & User Management: Register, Confirm, Login, Change username/password, Forgot password and more.
 - [bfontaine/term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
@@ -1347,6 +1347,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## SCSS 
 
