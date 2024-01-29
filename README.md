@@ -659,7 +659,6 @@
 
 - [sqren/alfred-currency](https://github.com/sqren/alfred-currency) - Workflow for Alfred to quickly lookup and convert currencies
 - [mkstn/village-connect](https://github.com/mkstn/village-connect) - Making internet available to people with no internet connection
-- [presentator/presentator](https://github.com/presentator/presentator) - Design presentation and collaboration platform
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [dzuelke/wordpress-12factor](https://github.com/dzuelke/wordpress-12factor) - WordPress, the Twelve-Factor way: fully managed using Composer and configured using environment variables.
@@ -1354,6 +1353,7 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+- [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
