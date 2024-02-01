@@ -1411,7 +1411,7 @@
 - [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
 - [adamchainz/heroicons](https://github.com/adamchainz/heroicons) - Use heroicons in your Django and Jinja templates.
 - [4silvertooth/QwikTape](https://github.com/4silvertooth/QwikTape) - Do calculations, annotate like you would on a paper "qwikly".
-- [sqren/alfred-currency](https://github.com/sqren/alfred-currency) - Workflow for Alfred to quickly lookup and convert currencies
+- [sorenlouv/alfred-currency](https://github.com/sorenlouv/alfred-currency) - Workflow for Alfred to quickly lookup and convert currencies
 - [httpie/fractional-indexing-python](https://github.com/httpie/fractional-indexing-python) - Fractional Indexing in Python
 - [charettes/django-syzygy](https://github.com/charettes/django-syzygy) - Django application providing database migration tooling to automate their deployment.
 - [nicois/nango](https://github.com/nicois/nango) - 
