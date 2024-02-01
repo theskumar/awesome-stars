@@ -657,7 +657,7 @@
 
 ## PHP 
 
-- [sqren/alfred-currency](https://github.com/sqren/alfred-currency) - Workflow for Alfred to quickly lookup and convert currencies
+- [sorenlouv/alfred-currency](https://github.com/sorenlouv/alfred-currency) - Workflow for Alfred to quickly lookup and convert currencies
 - [mkstn/village-connect](https://github.com/mkstn/village-connect) - Making internet available to people with no internet connection
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
