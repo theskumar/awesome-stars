@@ -58,7 +58,7 @@
 ## C 
 
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -504,7 +504,6 @@
 - [mher/chartkick.py](https://github.com/mher/chartkick.py) - Create beautiful Javascript charts with minimal code
 - [brianchirls/Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [tkopczuk/one_second_django_deployment](https://github.com/tkopczuk/one_second_django_deployment) - Our scripts to automate Django deployment and versioning. It takes one command to automagically create a new node running nginx+gunicorn under the supervisor daemon. Performs minification and bundling
@@ -592,6 +591,7 @@
 
 ## Others 
 
+- [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
 - [joelparkerhenderson/principles](https://github.com/joelparkerhenderson/principles) - Principles: summaries of ethical prinicples, leadership principles, teamwork principles, ui/ux design principles, software programming principles, etc.
 - [theskumar/til](https://github.com/theskumar/til) - A collection of useful things I've learned.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1319,7 +1319,6 @@
 - [pdfkit/pdfkit](https://github.com/pdfkit/pdfkit) - A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf
 - [exercism/problem-specifications](https://github.com/exercism/problem-specifications) - Shared metadata for exercism exercises.
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [fgrehm/vagrant-cachier](https://github.com/fgrehm/vagrant-cachier) - Caffeine reducer
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [interagent/prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs
@@ -1332,7 +1331,6 @@
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [defunkt/github-gem](https://github.com/defunkt/github-gem) - `github` command line helper for simplifying your GitHub experience.
 
 ## Rust 
 
