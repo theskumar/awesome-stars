@@ -391,7 +391,7 @@
 - [ajdavis/asyncio-chat-example](https://github.com/ajdavis/asyncio-chat-example) - Python 3.4 asyncio chat example
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
-- [clippings/layout-grid](https://github.com/clippings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
+- [OpenBuildings/layout-grid](https://github.com/OpenBuildings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
 - [carhartl/jquery-cookie](https://github.com/carhartl/jquery-cookie) - No longer maintained, superseded by JS Cookie:
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [jdan/tota11y](https://github.com/jdan/tota11y) - an accessibility (a11y) visualization toolkit
@@ -504,6 +504,7 @@
 - [mher/chartkick.py](https://github.com/mher/chartkick.py) - Create beautiful Javascript charts with minimal code
 - [brianchirls/Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
+- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [tkopczuk/one_second_django_deployment](https://github.com/tkopczuk/one_second_django_deployment) - Our scripts to automate Django deployment and versioning. It takes one command to automagically create a new node running nginx+gunicorn under the supervisor daemon. Performs minification and bundling
@@ -1319,6 +1320,7 @@
 - [pdfkit/pdfkit](https://github.com/pdfkit/pdfkit) - A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf
 - [exercism/problem-specifications](https://github.com/exercism/problem-specifications) - Shared metadata for exercism exercises.
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [fgrehm/vagrant-cachier](https://github.com/fgrehm/vagrant-cachier) - Caffeine reducer
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [interagent/prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs
@@ -1331,6 +1333,7 @@
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [defunkt/github-gem](https://github.com/defunkt/github-gem) - `github` command line helper for simplifying your GitHub experience.
 
 ## Rust 
 
