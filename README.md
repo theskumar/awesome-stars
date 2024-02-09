@@ -98,7 +98,7 @@
 - [laurenhallden/travellog](https://github.com/laurenhallden/travellog) - An interactive map of everywhere you traveled
 - [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
-- [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material) - Material Design for Django
+- [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [elky/django-flat-responsive](https://github.com/elky/django-flat-responsive) - 📱 An extension for Django admin that makes interface mobile-friendly. Merged into Django 2.0
 - [agiliq/Django-parsley](https://github.com/agiliq/Django-parsley) - Client side form validations for Django - Using parsley.js
 - [elky/django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
@@ -175,7 +175,7 @@
 ## Go 
 
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
