@@ -209,6 +209,7 @@
 
 ## ai 
 
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -279,6 +280,7 @@
 
 ## automation 
 
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [leolivier/auto-po-lyglot](https://github.com/leolivier/auto-po-lyglot) - The goal of this project is to use various LLMs to help translate po files using a first already translated file to provide context for short pieces of text otherwise very ambiguous.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1439,6 +1441,8 @@
 
 ## llm 
 
+- [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -1688,6 +1692,7 @@
 
 ## others 
 
+- [pmdevita/django-shinobi](https://github.com/pmdevita/django-shinobi) - 💨  A community-focused fork of Django Ninja, a fast, async-ready, OpenAPI supporting, type hints-based framework for building APIs
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - 
 - [jurasofish/mcpunk](https://github.com/jurasofish/mcpunk) - MCP tools for Roaming RAG
 - [simonw/csm-mlx](https://github.com/simonw/csm-mlx) - An implementation of the CSM(Conversation Speech Model) for Apple Silicon using MLX.
