@@ -764,6 +764,9 @@
 
 ## Python 
 
+- [pmdevita/django-shinobi](https://github.com/pmdevita/django-shinobi) - 💨  A community-focused fork of Django Ninja, a fast, async-ready, OpenAPI supporting, type hints-based framework for building APIs
+- [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [jurasofish/mcpunk](https://github.com/jurasofish/mcpunk) - MCP tools for Roaming RAG
 - [simonw/csm-mlx](https://github.com/simonw/csm-mlx) - An implementation of the CSM(Conversation Speech Model) for Apple Silicon using MLX.
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
