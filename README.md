@@ -342,6 +342,7 @@
 
 ## JavaScript 
 
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) - Markdown formatting buttons for text inputs.
@@ -355,7 +356,7 @@
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [rstacruz/onmount](https://github.com/rstacruz/onmount) - Safe, reliable, idempotent and testable behaviors for DOM nodes
 - [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -764,6 +765,8 @@
 
 ## Python 
 
+- [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [stuzero/pg-mcp](https://github.com/stuzero/pg-mcp) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [azaitsev/millify](https://github.com/azaitsev/millify) - Convert long numbers into a human-readable format in Python
