@@ -67,7 +67,7 @@
 
 ## C 
 
-- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -618,6 +619,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -658,6 +660,7 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [open-guides/og-search-engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -1466,6 +1469,7 @@
 
 ## Ruby 
 
+- [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
 - [substrakt/letsencrypt-heroku](https://github.com/substrakt/letsencrypt-heroku) - Make any Heroku application secure in just a couple of minutes.
 - [pdfkit/pdfkit](https://github.com/pdfkit/pdfkit) - A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf
@@ -1488,6 +1492,7 @@
 
 ## Rust 
 
+- [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
@@ -1615,6 +1620,7 @@
 
 ## TypeScript 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [chialab/dna](https://github.com/chialab/dna) - 🧬 Progressive Web Components.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - The ultimate toolkit for working with APIs.
