@@ -152,7 +152,6 @@
 
 ## Clojure 
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
@@ -749,7 +748,6 @@
 - [mattbanks/dotfiles-syntax-highlighting-st2](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
 - [jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [garethr/vagrantboxes-heroku](https://github.com/garethr/vagrantboxes-heroku) - Repository for http://www.vagrantbox.es
-- [jakebresnehan/Sublime-Super-Snippets](https://github.com/jakebresnehan/Sublime-Super-Snippets) - A collection of front end developer snippets for Sublime Text
 - [theskumar-archive/jquery.formbuilder](https://github.com/theskumar-archive/jquery.formbuilder) - A jQuery plugin for building forms, loading form structure from xml, and saving back to the server.
 - [kimjoar/writings](https://github.com/kimjoar/writings) - My blog posts
 - [theskumar-archive/jquery.dform](https://github.com/theskumar-archive/jquery.dform) - A flexible JavaScript Object and JSON to HTML converter with a focus on forms
@@ -1673,6 +1671,7 @@
 
 ## TypeScript 
 
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
