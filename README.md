@@ -1629,7 +1629,7 @@
 - [czocher/gpg-crypt](https://github.com/czocher/gpg-crypt) - A simple file/directory encryption/decryption plugin for ZSH.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [codelittinc/incubator-resources](https://github.com/codelittinc/incubator-resources) - Processes, policies, and tools for startups and product teams. All open sourced and open for contribution.
+- [codelittinc/come-to-telegram-rickluminari-come-to-telegram-rickluminari-incubator-resources](https://github.com/codelittinc/come-to-telegram-rickluminari-come-to-telegram-rickluminari-incubator-resources) - Processes, policies, and tools for startups and product teams. All open sourced and open for contribution.
 - [theskumar/dotfiles](https://github.com/theskumar/dotfiles) - ~/.* with ♥
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
