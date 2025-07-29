@@ -527,7 +527,7 @@
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-- [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
+- [mattdelacdev/WOW](https://github.com/mattdelacdev/WOW) - Reveal CSS animation as you scroll down a page
 - [raphaelcruzeiro/jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 - [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 - [carrot/share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:
@@ -793,6 +793,7 @@
 
 ## Python 
 
+- [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python.
 - [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber) - Data anonymizer for Django
 - [protibimbok/django-vite-plugin](https://github.com/protibimbok/django-vite-plugin) - This plugin configures Vite for use with Django backend.
 - [nklsw/django-docker-starter](https://github.com/nklsw/django-docker-starter) - Boilerplate for dockerized Django projects using uv
@@ -1629,7 +1630,7 @@
 - [czocher/gpg-crypt](https://github.com/czocher/gpg-crypt) - A simple file/directory encryption/decryption plugin for ZSH.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [codelittinc/come-to-telegram-rickluminari-come-to-telegram-rickluminari-incubator-resources](https://github.com/codelittinc/come-to-telegram-rickluminari-come-to-telegram-rickluminari-incubator-resources) - Processes, policies, and tools for startups and product teams. All open sourced and open for contribution.
+- [codelittinc/incubator-resources](https://github.com/codelittinc/incubator-resources) - Processes, policies, and tools for startups and product teams. All open sourced and open for contribution.
 - [theskumar/dotfiles](https://github.com/theskumar/dotfiles) - ~/.* with ♥
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
