@@ -732,7 +732,6 @@
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [rstacruz/rscss](https://github.com/rstacruz/rscss) - Reasonable System for CSS Stylesheet Structure
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [brandonwamboldt/sublime-nginx](https://github.com/brandonwamboldt/sublime-nginx) - Improved syntax support for Nginx configuration files
 - [ICTO/ansible-redis](https://github.com/ICTO/ansible-redis) - Ansible playbook: Redis
 - [mishbahr/awesome-django-cms](https://github.com/mishbahr/awesome-django-cms) - A curated list of awesome django-cms add-ons. You should also checkout: https://marketplace.django-cms.org/en/
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
