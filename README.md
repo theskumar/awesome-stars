@@ -569,6 +569,7 @@
 - [mtrpcic/pathjs](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers
 - [sofish/pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
 - [jpillora/xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [jakiestfu/Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [visionmedia/move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 - [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
@@ -643,7 +644,7 @@
 
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -1470,7 +1471,7 @@
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [jazzband/django-admin2](https://github.com/jazzband/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
-- [django-oauth/django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - [Currently being transferred out of Jazzband] OAuth2 goodies for the Djangonauts!
+- [django-oauth/django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
 - [hhatto/nude.py](https://github.com/hhatto/nude.py) - Nudity detection with Python
 - [nlloyd/SubliminalCollaborator](https://github.com/nlloyd/SubliminalCollaborator) - Sublime Text 2 Plugin for remote pair programming
@@ -1760,7 +1761,6 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [angular-gantt/angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 
 ## VCL 
