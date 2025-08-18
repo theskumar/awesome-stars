@@ -1288,7 +1288,6 @@
 - [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
 - [arteria/django-compat](https://github.com/arteria/django-compat) - Forward and backwards compatibility layer for Django 1.4, 1.7, 1.8, 1.9, 1.10, and 1.11
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-- [estebistec/drf-compound-fields](https://github.com/estebistec/drf-compound-fields) - Django-REST-framework serializer fields for compound types.
 - [niwinz/djorm-pgarray](https://github.com/niwinz/djorm-pgarray) - PostgreSQL array field for Django.
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [mozilla-releng/redo](https://github.com/mozilla-releng/redo) - Utilities to retry Python callables
