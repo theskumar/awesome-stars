@@ -56,6 +56,7 @@
 - [VCL](#vcl)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## AppleScript 
@@ -793,6 +794,8 @@
 
 ## Python 
 
+- [defrex/django-after-response](https://github.com/defrex/django-after-response) - Simple asynchronous execution
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [matthiask/blacknoise](https://github.com/matthiask/blacknoise) - blacknoise is an ASGI app for static file serving inspired by whitenoise and following the principles of low maintenance software.
 - [Archmonger/ServeStatic](https://github.com/Archmonger/ServeStatic) - Production-grade static file server for Python WSGI & ASGI.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -853,7 +856,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
@@ -899,7 +902,7 @@
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [mdomke/python-ulid](https://github.com/mdomke/python-ulid) - ULID implementation for Python
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -1564,7 +1567,6 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
@@ -1777,6 +1779,10 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [AT-UI/at-ui](https://github.com/AT-UI/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
