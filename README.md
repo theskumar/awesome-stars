@@ -361,7 +361,7 @@
 
 ## JavaScript 
 
-- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
+- [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -383,7 +383,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
-- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
+- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
@@ -900,7 +900,7 @@
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [mdomke/python-ulid](https://github.com/mdomke/python-ulid) - ULID implementation for Python
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
