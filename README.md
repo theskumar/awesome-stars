@@ -1543,7 +1543,7 @@
 
 ## Rust 
 
-- [m1guer/basedpyright-zed](https://github.com/m1guer/basedpyright-zed) - 
+- [pub-struct/basedpyright-zed](https://github.com/pub-struct/basedpyright-zed) - 
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
