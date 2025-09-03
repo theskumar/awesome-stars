@@ -1898,7 +1898,7 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [m1guer/basedpyright-zed](https://github.com/m1guer/basedpyright-zed) - 
+- [pub-struct/basedpyright-zed](https://github.com/pub-struct/basedpyright-zed) - 
 - [samueljsb/silence-lint-error](https://github.com/samueljsb/silence-lint-error) - silence linting errors by adding ignore/fixme comments
 - [pauloxnet/uDjango](https://github.com/pauloxnet/uDjango) - A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks.
 - [getsentry/auto-type-annotate](https://github.com/getsentry/auto-type-annotate) - automatically add annotations to untyped python code!
