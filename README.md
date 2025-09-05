@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [orchidjs/sifter.js](https://github.com/orchidjs/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -863,7 +864,7 @@
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python.
@@ -1018,7 +1019,7 @@
 - [berinhard/model_mommy](https://github.com/berinhard/model_mommy) - No longer maintained, please migrate to model_bakery
 - [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
 - [jsocol/django-adminplus](https://github.com/jsocol/django-adminplus) - Easily add custom views to the Django admin.
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [lionheart/pwnedpasswords](https://github.com/lionheart/pwnedpasswords) - A Python Library and CLI for the Pwned Passwords v2 API
 - [lionheart/django-pwnedpasswords-validator](https://github.com/lionheart/django-pwnedpasswords-validator) - Django password validator that checks for passwords in known data breaches.
 - [pawamoy/django-zxcvbn-password](https://github.com/pawamoy/django-zxcvbn-password) - Back-end and Front-end password validation with ZXCVBN
@@ -1677,7 +1678,7 @@
 
 ## TypeScript 
 
-- [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Web Awesome's open source components.
+- [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
