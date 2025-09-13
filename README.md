@@ -793,6 +793,8 @@
 
 ## Python 
 
+- [adamghill/dj-toml-settings](https://github.com/adamghill/dj-toml-settings) - Load Django settings from a TOML file
+- [ri-sh/Form16x](https://github.com/ri-sh/Form16x) - 
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [defrex/django-after-response](https://github.com/defrex/django-after-response) - Simple asynchronous execution
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
