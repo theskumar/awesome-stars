@@ -645,7 +645,7 @@
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [raghakot/demystifying-convnets](https://github.com/raghakot/demystifying-convnets) - Collection of notebooks exploring conv nets in detail.
@@ -1028,7 +1028,7 @@
 - [pawamoy/django-zxcvbn-password](https://github.com/pawamoy/django-zxcvbn-password) - Back-end and Front-end password validation with ZXCVBN
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [twidi/django-extended-choices](https://github.com/twidi/django-extended-choices) - Little helper application to improve django choices (for fields)
-- [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
+- [gruns/furl](https://github.com/gruns/furl) - 🌐 The easiest way to parse and modify URLs in Python.
 - [jmcarp/nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
 - [mixkorshun/celery-beatx](https://github.com/mixkorshun/celery-beatx) - Modern fail-safety scheduler for Celery
 - [mixkorshun/django-safe-filefield](https://github.com/mixkorshun/django-safe-filefield) - Secure file field, which allows you to restrict uploaded file extensions.
