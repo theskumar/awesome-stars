@@ -793,6 +793,8 @@
 
 ## Python 
 
+- [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
+- [yassi/dj-redis-panel](https://github.com/yassi/dj-redis-panel) - Django admin interface for redis
 - [adamghill/dj-toml-settings](https://github.com/adamghill/dj-toml-settings) - Load Django settings from a TOML file
 - [ri-sh/Form16x](https://github.com/ri-sh/Form16x) - 
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
@@ -1169,7 +1171,7 @@
 - [python-hyper/brotlicffi](https://github.com/python-hyper/brotlicffi) - Python bindings to the Brotli compression library
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-- [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) - 
+- [LilyFirefly/rest-framework-generic-relations](https://github.com/LilyFirefly/rest-framework-generic-relations) - 
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [pydelhi/pydelhi_mobile](https://github.com/pydelhi/pydelhi_mobile) - Mobile App for PyDelhi
