@@ -1907,6 +1907,8 @@
 
 ## others 
 
+- [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
+- [yassi/dj-redis-panel](https://github.com/yassi/dj-redis-panel) - Django admin interface for redis
 - [ri-sh/Form16x](https://github.com/ri-sh/Form16x) - 
 - [orchidjs/sifter.js](https://github.com/orchidjs/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
 - [defrex/django-after-response](https://github.com/defrex/django-after-response) - Simple asynchronous execution
@@ -2235,7 +2237,7 @@
 - [bendavis78/django-template-email](https://github.com/bendavis78/django-template-email) - A useful tool for building email messages using django templates
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [phred/5minbootstrap](https://github.com/phred/5minbootstrap) - Bootstrap and secure your server in 5 minutes flat.
-- [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) - 
+- [LilyFirefly/rest-framework-generic-relations](https://github.com/LilyFirefly/rest-framework-generic-relations) - 
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [VPenkov/okayNav](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation. This is (sort of) a legacy implementation. Please stay tuned to the 3.0 branch (https://github.com/VPenkov/okayNav/tree/v3.0)
 - [kevinwuhoo/randomcolor-py](https://github.com/kevinwuhoo/randomcolor-py) - A port of David Merfield's randomColor to python.
