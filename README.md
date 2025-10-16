@@ -792,6 +792,7 @@
 
 ## Python 
 
+- [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - 
 - [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
 - [yassi/dj-redis-panel](https://github.com/yassi/dj-redis-panel) - Django admin interface for redis
@@ -1561,7 +1562,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [zed-extensions/harper](https://github.com/zed-extensions/harper) - Harper LS extension for the Zed editor
-- [WeetHet/typst.zed](https://github.com/WeetHet/typst.zed) - Typst extension for zed
+- [zed-extensions/typst](https://github.com/zed-extensions/typst) - Typst extension for zed
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
