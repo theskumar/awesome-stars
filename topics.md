@@ -1921,6 +1921,7 @@
 
 ## others 
 
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 - [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - 
 - [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras) - Useful CSS custom functions using the new @​function rule
