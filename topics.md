@@ -241,7 +241,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -253,7 +253,7 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
 ## algorithm 
@@ -442,7 +442,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## chatgpt-api 
@@ -905,7 +905,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1184,7 +1184,7 @@
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -1252,7 +1252,7 @@
 - [avencera/rustywind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -1388,7 +1388,7 @@
 ## image-processing 
 
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
@@ -1645,7 +1645,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -2879,7 +2879,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
