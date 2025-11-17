@@ -1700,6 +1700,7 @@
 
 ## macos 
 
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -2428,7 +2429,7 @@
 - [komarserjio/notejam](https://github.com/komarserjio/notejam) - Unified sample web app. The easy way to learn web frameworks.
 - [lazybird/django-solo](https://github.com/lazybird/django-solo) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 - [joke2k/django-faker](https://github.com/joke2k/django-faker) - Django-faker uses fake-factory to generate test data for Django models and templates
-- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
+- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v6.0
 - [Wisembly/basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
 - [s16h/py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
@@ -2856,6 +2857,7 @@
 
 ## python 
 
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber) - Data anonymizer for Django
