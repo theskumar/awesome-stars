@@ -811,6 +811,7 @@
 
 - [efe/yesglot](https://github.com/efe/yesglot) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
+- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [adamghill/dj-toml-settings](https://github.com/adamghill/dj-toml-settings) - Load Django settings from a TOML file
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [Archmonger/ServeStatic](https://github.com/Archmonger/ServeStatic) - Production-grade static file server for Python WSGI & ASGI.
@@ -1161,7 +1162,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
+- [andrew/first-pr](https://github.com/andrew/first-pr) - What was the first pull request you sent on GitHub?
 
 ## github-api 
 
@@ -1457,6 +1458,7 @@
 
 ## javascript 
 
+- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -1946,7 +1948,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
+- [andrew/first-pr](https://github.com/andrew/first-pr) - What was the first pull request you sent on GitHub?
 
 ## openai 
 
@@ -1969,12 +1971,12 @@
 
 ## others 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 - [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
-- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - 
 - [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras) - Useful CSS custom functions using the new @​function rule
 - [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
 - [yassi/dj-redis-panel](https://github.com/yassi/dj-redis-panel) - Django admin interface for redis
@@ -3232,6 +3234,7 @@
 
 ## react 
 
+- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support.
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -3296,6 +3299,7 @@
 
 ## rust 
 
+- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support.
 - [swanlake-io/swanlake](https://github.com/swanlake-io/swanlake) - DuckLake took Flight. Welcome to SwanLake.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
@@ -3573,6 +3577,7 @@
 
 ## typescript 
 
+- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support.
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
