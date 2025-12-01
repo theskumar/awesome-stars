@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [Skarlso/adventure-voter](https://github.com/Skarlso/adventure-voter) - Choose your own adventure style Presentation framework.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -796,6 +797,7 @@
 
 ## Python 
 
+- [adamghill/django-new](https://github.com/adamghill/django-new) - Create new Django applications with sensible defaults and modern patterns. 🚀
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [efe/yesglot](https://github.com/efe/yesglot) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [pytest-dev/pytest-github-actions-annotate-failures](https://github.com/pytest-dev/pytest-github-actions-annotate-failures) - Pytest plugin to annotate failed tests with a workflow command for GitHub Actions
