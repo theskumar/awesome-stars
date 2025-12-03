@@ -797,7 +797,7 @@
 
 ## Python 
 
-- [adamghill/django-new](https://github.com/adamghill/django-new) - Create new Django applications with sensible defaults and modern patterns. 🚀
+- [adamghill/django-new](https://github.com/adamghill/django-new) - Create new Django applications with pizazz. 🚀
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [efe/yesglot](https://github.com/efe/yesglot) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [pytest-dev/pytest-github-actions-annotate-failures](https://github.com/pytest-dev/pytest-github-actions-annotate-failures) - Pytest plugin to annotate failed tests with a workflow command for GitHub Actions
