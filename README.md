@@ -874,7 +874,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
@@ -1727,7 +1727,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [chialab/dna](https://github.com/chialab/dna) - 🧬 Progressive Web Components.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs. 🎅🏼 HO. HO. HO.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [fregante/fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a &lt;textarea&gt; to fit its content, in a few bytes
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
