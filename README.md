@@ -73,6 +73,7 @@
 
 ## C 
 
+- [ttscoff/apex](https://github.com/ttscoff/apex) - 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimization
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -796,6 +797,8 @@
 
 ## Python 
 
+- [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf) - Django modern CSRF protection using Fetch Metadata request headers instead of tokens.
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
@@ -1566,6 +1569,8 @@
 
 ## Rust 
 
+- [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [ayarotsky/diesel-guard](https://github.com/ayarotsky/diesel-guard) - Catch dangerous PostgreSQL migrations in Diesel before they take down production
 - [swanlake-io/swanlake](https://github.com/swanlake-io/swanlake) - DuckLake took Flight. Welcome to SwanLake.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
