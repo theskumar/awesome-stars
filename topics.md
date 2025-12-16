@@ -1992,7 +1992,7 @@
 
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
-- [ttscoff/apex](https://github.com/ttscoff/apex) - 
+- [ApexMarkdown/apex](https://github.com/ApexMarkdown/apex) - 
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
