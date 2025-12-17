@@ -265,6 +265,7 @@
 
 ## ai-agents 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -403,6 +404,7 @@
 
 ## bash 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -483,6 +485,7 @@
 ## cli 
 
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -551,6 +554,7 @@
 
 ## command-line 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1697,6 +1701,7 @@
 
 ## llm 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
 - [LexiestLeszek/InvestorGPT](https://github.com/LexiestLeszek/InvestorGPT) - InvestorGPT is an AI agent that analyzes the stock that dropped in its price recently and calculates chance for the company to recover the stock price back.
@@ -1971,6 +1976,7 @@
 
 ## openai 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -1990,12 +1996,12 @@
 
 ## others 
 
+- [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [ApexMarkdown/apex](https://github.com/ApexMarkdown/apex) - 
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
@@ -2927,6 +2933,7 @@
 ## python 
 
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [pytest-dev/pytest-github-actions-annotate-failures](https://github.com/pytest-dev/pytest-github-actions-annotate-failures) - Pytest plugin to annotate failed tests with a workflow command for GitHub Actions
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
@@ -3447,6 +3454,7 @@
 
 ## shell 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
