@@ -797,13 +797,14 @@
 
 ## Python 
 
+- [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf) - Django modern CSRF protection using Fetch Metadata request headers instead of tokens.
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
 - [adamghill/django-new](https://github.com/adamghill/django-new) - Create new Django applications with pizazz. 🚀
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [efe/yesglot](https://github.com/efe/yesglot) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [pytest-dev/pytest-github-actions-annotate-failures](https://github.com/pytest-dev/pytest-github-actions-annotate-failures) - Pytest plugin to annotate failed tests with a workflow command for GitHub Actions
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
@@ -1349,7 +1350,7 @@
 - [ellisonleao/pyshorteners](https://github.com/ellisonleao/pyshorteners) - :electric_plug: Generating short urls with python has never been easier
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script.
+- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script. Now updated.
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated en
 - [mpasternak/django-interval-field](https://github.com/mpasternak/django-interval-field) - INTERVAL field for PostgreSQL (and an approximation for other backends)
 - [nathanborror/django-basic-apps](https://github.com/nathanborror/django-basic-apps) - Simple prebuilt applications.
