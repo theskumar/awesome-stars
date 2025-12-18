@@ -213,6 +213,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -2510,7 +2511,7 @@
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script.
+- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script. Now updated.
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated en
 - [mpasternak/django-interval-field](https://github.com/mpasternak/django-interval-field) - INTERVAL field for PostgreSQL (and an approximation for other backends)
 - [lafikl/steady.js](https://github.com/lafikl/steady.js) - A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions.
@@ -3616,6 +3617,21 @@
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [kmmbvnr/django-jenkins](https://github.com/kmmbvnr/django-jenkins) - Plug and play continuous integration with django and jenkins
+
+## tui 
+
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [matterhorn-chat/matterhorn](https://github.com/matterhorn-chat/matterhorn) - A feature-rich Unix terminal client for the Mattermost chat system
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## twitter 
 
