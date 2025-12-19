@@ -797,6 +797,7 @@
 
 ## Python 
 
+- [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
@@ -1653,6 +1654,7 @@
 
 ## Shell 
 
+- [sar/autosaved](https://github.com/sar/autosaved) - Git Autosave CLI to commit changes every 15m on your entire system. Lightweight background daemon, pure shell script with ZERO dependencies.
 - [astral-sh/uv-cloudflare-workers-example](https://github.com/astral-sh/uv-cloudflare-workers-example) - Deploying a FastAPI application to Cloudflare Workers with uv.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
