@@ -73,6 +73,7 @@
 
 ## C 
 
+- [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [ApexMarkdown/apex](https://github.com/ApexMarkdown/apex) - 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimization
@@ -392,6 +393,7 @@
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+- [theskumar/til](https://github.com/theskumar/til) - A collection of useful things I've learned.
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -698,7 +700,6 @@
 - [jordan-cutler/tech-gpt-prompts](https://github.com/jordan-cutler/tech-gpt-prompts) - GPT Prompts to help you as an engineer in tech
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
 - [joelparkerhenderson/principles](https://github.com/joelparkerhenderson/principles) - Principles: summaries of ethical prinicples, leadership principles, teamwork principles, ui/ux design principles, software programming principles, etc.
-- [theskumar/til](https://github.com/theskumar/til) - A collection of useful things I've learned.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
@@ -797,6 +798,7 @@
 
 ## Python 
 
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
@@ -1571,6 +1573,7 @@
 
 ## Rust 
 
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [ayarotsky/diesel-guard](https://github.com/ayarotsky/diesel-guard) - Catch dangerous PostgreSQL migrations in Diesel before they take down production
@@ -1703,6 +1706,7 @@
 
 ## Swift 
 
+- [patroza/HyprSpace](https://github.com/patroza/HyprSpace) - Hyprland for MacOS - heavily modified Aerospace
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
@@ -1720,7 +1724,7 @@
 ## TypeScript 
 
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
-- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support.
+- [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🚀 Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
