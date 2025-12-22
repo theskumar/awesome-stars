@@ -2016,6 +2016,7 @@
 
 ## others 
 
+- [efe/django-raphael](https://github.com/efe/django-raphael) - A low-effort, fully asynchronous ORM for Django applications, powered by Tortoise ORM under the hood.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [gjtorikian/gh-actions-lockfile](https://github.com/gjtorikian/gh-actions-lockfile) - Generate and verify lockfiles for GitHub Actions dependencies.
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
@@ -2959,6 +2960,7 @@
 
 ## python 
 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
