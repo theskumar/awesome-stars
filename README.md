@@ -1327,7 +1327,7 @@
 - [niwinz/djorm-pgarray](https://github.com/niwinz/djorm-pgarray) - PostgreSQL array field for Django.
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [mozilla-releng/redo](https://github.com/mozilla-releng/redo) - Utilities to retry Python callables
-- [stefanfoulis/django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
 - [kaleidos/django-sampledatahelper](https://github.com/kaleidos/django-sampledatahelper) - Helper class for generate sample data for django apps development.
 - [mverteuil/pytest-ipdb](https://github.com/mverteuil/pytest-ipdb) - Provides ipdb on failures for py.test.
 - [niwinz/django-jinja](https://github.com/niwinz/django-jinja) - Simple and nonobstructive jinja2 integration with Django.
