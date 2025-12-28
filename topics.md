@@ -2029,7 +2029,7 @@
 
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [anistark/ty](https://github.com/anistark/ty) - An extremely fast Python type checker and language server, written in Rust.
-- [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives URL
+- [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
 - [efe/django-raphael](https://github.com/efe/django-raphael) - A low-effort, fully asynchronous ORM for Django applications, powered by Tortoise ORM under the hood.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
