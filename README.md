@@ -802,6 +802,8 @@
 
 ## Python 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [knifecake/steady-queue](https://github.com/knifecake/steady-queue) - A DB-backed task backend for Django
 - [anistark/ty](https://github.com/anistark/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
@@ -1735,6 +1737,7 @@
 
 ## TypeScript 
 
+- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [gjtorikian/gh-actions-lockfile](https://github.com/gjtorikian/gh-actions-lockfile) - Generate and verify lockfiles for GitHub Actions dependencies.
