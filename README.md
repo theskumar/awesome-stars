@@ -694,6 +694,7 @@
 
 ## Others 
 
+- [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [Work-In-Progress-For-Health/claude-commands](https://github.com/Work-In-Progress-For-Health/claude-commands) - Claude commands for software engineering prompts using markdown files
 - [tott/ai-coding-conventions](https://github.com/tott/ai-coding-conventions) - A set of coding conventions for a variety of projects that can be used to inform AI assisted coding
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -895,7 +896,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
