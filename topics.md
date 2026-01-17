@@ -2144,7 +2144,7 @@
 - [defrex/django-after-response](https://github.com/defrex/django-after-response) - Simple asynchronous execution
 - [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [matthiask/blacknoise](https://github.com/matthiask/blacknoise) - blacknoise is an ASGI app for static file serving inspired by whitenoise and following the principles of low maintenance software.
-- [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~300 lines) event loop for Python.
+- [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
 - [protibimbok/django-vite-plugin](https://github.com/protibimbok/django-vite-plugin) - This plugin configures Vite for use with Django backend.
 - [Work-In-Progress-For-Health/claude-commands](https://github.com/Work-In-Progress-For-Health/claude-commands) - Claude commands for software engineering prompts using markdown files
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
