@@ -1174,7 +1174,7 @@
 - [amandasaurus/apache-log-parser](https://github.com/amandasaurus/apache-log-parser) - Parses log lines from an apache log
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [hernamesbarbara/table2csv](https://github.com/hernamesbarbara/table2csv) - Extract data from an HTML table and store results to a csv file.
+- [austinogilvie/table2csv](https://github.com/austinogilvie/table2csv) - Extract data from an HTML table and store results to a csv file.
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor) - Bare bone examples of machine learning in TensorFlow
 - [shtalinberg/django-el-pagination](https://github.com/shtalinberg/django-el-pagination) - Django endless pagination tools. Ajax, multiple and lazy pagination, Twitter-style and Digg-style pagination.
 - [mitmedialab/django-channels-presence](https://github.com/mitmedialab/django-channels-presence) - "Rooms" and "Presence" for django-channels
