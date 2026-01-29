@@ -244,6 +244,7 @@
 
 ## agent 
 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -253,6 +254,8 @@
 
 ## ai 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -267,7 +270,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -283,7 +286,7 @@
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
@@ -802,7 +805,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -1462,6 +1465,7 @@
 
 ## html 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -1782,6 +1786,7 @@
 
 ## llm 
 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
@@ -1892,6 +1897,7 @@
 
 ## markdown 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
@@ -2128,6 +2134,7 @@
 
 ## others 
 
+- [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
 - [PaulKinlan/Co-do](https://github.com/PaulKinlan/Co-do) - Cowork-like experience in the browser using filesystem api
 - [Use-Tusk/fence](https://github.com/Use-Tusk/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [pythongiant/aws-doctor](https://github.com/pythongiant/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
@@ -2451,7 +2458,7 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
-- [Yelp/undebt](https://github.com/Yelp/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
+- [YelpArchive/undebt](https://github.com/YelpArchive/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
 - [pydelhi/talks](https://github.com/pydelhi/talks) - Talks at PyDelhi (Python Delhi User Group) – please feel free to propose a talk by opening an issue here!
 - [abarto/django_uncertainty](https://github.com/abarto/django_uncertainty) - A Django middleware to generate predictable errors on sites
 - [powergo/pytracking](https://github.com/powergo/pytracking) - Email open and click tracking library
@@ -3137,7 +3144,7 @@
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
@@ -3436,6 +3443,7 @@
 
 ## rag 
 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [FarhanAliRaza/django-hawkeye](https://github.com/FarhanAliRaza/django-hawkeye) - Django BM25 full-text search using PostgreSQL - a lightweight Elasticsearch alternative
