@@ -1895,8 +1895,9 @@
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
+- [ApexMarkdown/apex](https://github.com/ApexMarkdown/apex) - Universal Markdown Processor compatible with CommonMark, GFM, MultiMarkdown, Kramdown, mmark, and more
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) - Markdown formatting buttons for text inputs.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2161,7 +2162,6 @@
 - [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
-- [ApexMarkdown/apex](https://github.com/ApexMarkdown/apex) - 
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
@@ -3471,7 +3471,7 @@
 ## react 
 
 - [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🚀 Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence.
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -3766,7 +3766,7 @@
 ## tailwindcss 
 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -3867,7 +3867,7 @@
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
