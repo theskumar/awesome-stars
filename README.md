@@ -405,6 +405,7 @@
 
 - [knadh/highlighted-input.js](https://github.com/knadh/highlighted-input.js) - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an &lt;input&gt; field.
 - [lovasoa/highs-js](https://github.com/lovasoa/highs-js) - Javascript linear programming library
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [aws-actions/aws-codebuild-run-build](https://github.com/aws-actions/aws-codebuild-run-build) - Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.
 - [orchidjs/sifter.js](https://github.com/orchidjs/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
@@ -731,7 +732,6 @@
 
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - 
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -846,7 +846,7 @@
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 - [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
-- [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - Stop copy-pasting to and from Google Translate  🌍 Translate your Django .po files automatically with AI 🪄
+- [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - ⚡ Automate Django translations with AI. Repeatable, consistent, and pennies per language.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [MarkusSintonen/pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - Fast Python HTTP client based on Rust reqwest
@@ -858,7 +858,7 @@
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [kraken-tech/django-pg-migration-tools](https://github.com/kraken-tech/django-pg-migration-tools) - Extra functionalities to make Django migrations safer and more scalable
-- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -956,7 +956,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
 - [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
