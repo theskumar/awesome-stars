@@ -89,6 +89,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [woltapp/blurhash-python](https://github.com/woltapp/blurhash-python) - Python version of the BlurHash encoder
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
@@ -229,6 +230,7 @@
 - [pythongiant/aws-doctor](https://github.com/pythongiant/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -423,7 +425,7 @@
 - [zerodevx/zero-md](https://github.com/zerodevx/zero-md) - Ridiculously simple zero-config markdown displayer
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [rstacruz/onmount](https://github.com/rstacruz/onmount) - Safe, reliable, idempotent and testable behaviors for DOM nodes
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -1058,7 +1060,6 @@
 - [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
 - [ui/django-post_office](https://github.com/ui/django-post_office) - A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.
 - [P403n1x87/pytest-austin](https://github.com/P403n1x87/pytest-austin) - Python Performance Testing with Austin
-- [woltapp/blurhash-python](https://github.com/woltapp/blurhash-python) - Python version of the BlurHash encoder
 - [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
 - [py-moneyed/py-moneyed](https://github.com/py-moneyed/py-moneyed) - Provides Currency and Money classes for use in your Python code.
 - [math2001/FileManager](https://github.com/math2001/FileManager) - ⚡️ A Sublime Text 3 package to help with file (duplicate, move, create...) ⚡️
@@ -1787,7 +1788,7 @@
 
 ## Swift 
 
-- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File. Pure Swift
+- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Lightening fast RAG on Apple Silicon. On-Device. No Server. No API. One File. Pure Swift
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
