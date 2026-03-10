@@ -1814,7 +1814,7 @@
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [LexiestLeszek/InvestorGPT](https://github.com/LexiestLeszek/InvestorGPT) - InvestorGPT is an AI agent that analyzes the stock that dropped in its price recently and calculates chance for the company to recover the stock price back.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -1956,7 +1956,7 @@
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
