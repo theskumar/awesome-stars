@@ -434,7 +434,7 @@
 - [zerodevx/zero-md](https://github.com/zerodevx/zero-md) - Ridiculously simple zero-config markdown displayer
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [rstacruz/onmount](https://github.com/rstacruz/onmount) - Safe, reliable, idempotent and testable behaviors for DOM nodes
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
