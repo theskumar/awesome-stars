@@ -1460,7 +1460,7 @@
 - [edgurgel/httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [cobrateam/django-htmlmin](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python frameworks (not only Django, despite the name).
@@ -4025,7 +4025,7 @@
 
 ## visual-studio-code 
 
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 
 ## visualization 
 
