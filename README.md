@@ -986,7 +986,7 @@
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python.
