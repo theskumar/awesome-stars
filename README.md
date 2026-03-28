@@ -1519,7 +1519,7 @@
 - [bitlabstudio/django-development-fabfile](https://github.com/bitlabstudio/django-development-fabfile) - A fabfile to ease many tasks during development and deployment of Django projects.
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
-- [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Human beings
+- [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
 - [billzhong/inbox.py](https://github.com/billzhong/inbox.py) - Python SMTP Server for Humans
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [theskumar-archive/instagram_bot](https://github.com/theskumar-archive/instagram_bot) - Instagram "for bots"™
