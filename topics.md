@@ -381,6 +381,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
 
 ## awesome 
 
@@ -2846,7 +2847,6 @@
 - [veltman/principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 - [bitlabstudio/django-development-fabfile](https://github.com/bitlabstudio/django-development-fabfile) - A fabfile to ease many tasks during development and deployment of Django projects.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Human beings
 - [billzhong/inbox.py](https://github.com/billzhong/inbox.py) - Python SMTP Server for Humans
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [ksmandersen/compass-normalize](https://github.com/ksmandersen/compass-normalize) - A compass plugin for using normalize.css
@@ -3453,6 +3453,7 @@
 - [antonagestam/collectfast](https://github.com/antonagestam/collectfast) - A faster collectstatic command.
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
+- [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
 - [jpadilla/django-dotenv](https://github.com/jpadilla/django-dotenv) - Loads environment variables from .env
