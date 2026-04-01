@@ -856,6 +856,7 @@
 
 ## Python 
 
+- [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
