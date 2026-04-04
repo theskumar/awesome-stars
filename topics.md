@@ -257,6 +257,8 @@
 
 ## ai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -287,6 +289,7 @@
 
 ## ai-agents 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
@@ -375,6 +378,7 @@
 
 ## automation 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions
@@ -511,6 +515,7 @@
 
 ## chatgpt 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -533,6 +538,7 @@
 
 ## cli 
 
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [can1357/notionfs](https://github.com/can1357/notionfs) - Local-first sync for Notion. Work with pages as markdown files.
@@ -546,7 +552,6 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [ayarotsky/diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents   downtime caused by unsafe schema changes.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -830,6 +835,7 @@
 
 ## developer-tools 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -1147,6 +1153,7 @@
 
 ## fastapi 
 
+- [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -1243,7 +1250,6 @@
 
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
 - [sar/autosaved](https://github.com/sar/autosaved) - Git Autosave CLI to commit changes every 15m on your entire system. Lightweight background daemon, pure shell script with ZERO dependencies.
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [not-an-aardvark/git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into main
@@ -1504,6 +1510,7 @@
 
 ## homebrew 
 
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 
@@ -1694,7 +1701,6 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
-- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [angular-gantt/angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [jpillora/xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
@@ -1836,6 +1842,8 @@
 
 ## llm 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -1881,6 +1889,7 @@
 
 ## mac 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -1915,6 +1924,9 @@
 
 ## macos 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
@@ -2171,6 +2183,7 @@
 
 ## openai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
@@ -2252,6 +2265,7 @@
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
@@ -2919,6 +2933,7 @@
 - [dronir/SpotifyControl](https://github.com/dronir/SpotifyControl) - Control Spotify from the command line on macOS
 - [git-friendly/git-friendly](https://github.com/git-friendly/git-friendly) - Streamline your git workflow: just type `pull`, `branch`, `merge`, `push`
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
+- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [joemaddalone/ng-filltext](https://github.com/joemaddalone/ng-filltext) - An AngularJS directive for filltext.com
 - [siygle/grunt-autoshot](https://github.com/siygle/grunt-autoshot) - Create a quick screenshot for your site which could help for document or testing
 - [jimrhoskins/angular-parse](https://github.com/jimrhoskins/angular-parse) - 
@@ -3146,6 +3161,7 @@
 
 ## productivity 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
@@ -3197,6 +3213,7 @@
 
 ## python 
 
+- [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
@@ -3543,6 +3560,7 @@
 
 ## rag 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -3843,6 +3861,9 @@
 
 ## swift 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
@@ -3856,6 +3877,8 @@
 
 ## swiftui 
 
+- [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck) - Deck is a modern, native, privacy-first clipboard manager for macOS.
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
@@ -4084,6 +4107,7 @@
 
 ## web 
 
+- [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
