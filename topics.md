@@ -33,6 +33,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -537,6 +538,18 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+
+## claude-code 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
+- [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 ## cli 
 
@@ -1252,7 +1265,7 @@
 
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
 - [sar/autosaved](https://github.com/sar/autosaved) - Git Autosave CLI to commit changes every 15m on your entire system. Lightweight background daemon, pure shell script with ZERO dependencies.
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [not-an-aardvark/git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into main
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
@@ -2212,7 +2225,7 @@
 
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [sil-org/ecs-deploy](https://github.com/sil-org/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
@@ -2224,8 +2237,6 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray
