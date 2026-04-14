@@ -630,6 +630,7 @@
 
 ## cloud 
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -931,6 +932,7 @@
 
 ## distributed-systems 
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - 🚀 Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence.
@@ -939,6 +941,9 @@
 
 ## django 
 
+- [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
+- [adamchainz/django-perf-rec](https://github.com/adamchainz/django-perf-rec) - Keep detailed records of the performance of your Django code.
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
 - [knifecake/steady-queue](https://github.com/knifecake/steady-queue) - A DB-backed task backend for Django
 - [FarhanAliRaza/django-hawkeye](https://github.com/FarhanAliRaza/django-hawkeye) - Django BM25 full-text search using PostgreSQL - a lightweight Elasticsearch alternative
@@ -1052,7 +1057,6 @@
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
-- [antonagestam/collectfast](https://github.com/antonagestam/collectfast) - A faster collectstatic command.
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
@@ -1191,6 +1195,7 @@
 
 ## fastapi 
 
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -1208,6 +1213,7 @@
 
 ## flask 
 
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1338,6 +1344,7 @@
 
 ## go 
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1380,6 +1387,7 @@
 
 ## golang 
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1466,6 +1474,7 @@
 
 ## hacktoberfest 
 
+- [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
@@ -2262,6 +2271,8 @@
 
 ## others 
 
+- [taobojlen/django-zeal](https://github.com/taobojlen/django-zeal) - Detect N+1s in your Django app.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
@@ -2281,7 +2292,7 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray
 - [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) - Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
@@ -2430,7 +2441,7 @@
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark + GFM with Uploads and Image Resizing
@@ -2957,7 +2968,6 @@
 - [shadowhand/git-encrypt](https://github.com/shadowhand/git-encrypt) - Transparent Git Encryption
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 - [beeware/bugjar](https://github.com/beeware/bugjar) - A interactive graphical debugger for Python code.
-- [jamstooks/django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage) - Quick extension of django-storages' S3BotoStorage to allow separate media and static folders within a bucket.
 - [RamseyInHouse/scut](https://github.com/RamseyInHouse/scut) - Sass utilities for the frontend laborer.
 - [jaraco/path](https://github.com/jaraco/path) - Object-oriented file system path manipulation
 - [yourlabs/django-session-security](https://github.com/yourlabs/django-session-security) - A little javascript and middleware work together to ensure that the user was active during the past X minutes in any tab he has open. Otherwise, display a warning leaving a couple of minutes to show a
@@ -3272,6 +3282,7 @@
 
 ## python 
 
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
@@ -3538,7 +3549,6 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [sesh/piprot](https://github.com/sesh/piprot) - How rotten are your requirements?
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
-- [antonagestam/collectfast](https://github.com/antonagestam/collectfast) - A faster collectstatic command.
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
