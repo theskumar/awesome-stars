@@ -261,6 +261,7 @@
 
 ## ai 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
@@ -845,6 +846,7 @@
 
 ## deep-learning 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -1984,6 +1986,7 @@
 
 ## macos 
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
@@ -2275,11 +2278,12 @@
 
 ## others 
 
+- [espressoplease/SDocs](https://github.com/espressoplease/SDocs) - 
 - [NikolayS/pgque](https://github.com/NikolayS/pgque) - PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
 - [deemuk123/steno](https://github.com/deemuk123/steno) - steno is a Rust-based tool that compresses text before it reaches LLMs, reducing token cost and saving context space. It removes noise, shortens common phrases, and abbreviates domain terms. Fully rev
 - [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - PaperBanana: Automating Academic Illustration For AI Scientists
 - [taobojlen/django-zeal](https://github.com/taobojlen/django-zeal) - Detect N+1s in your Django app.
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
@@ -3742,6 +3746,7 @@
 
 ## rust 
 
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -3948,6 +3953,7 @@
 
 ## swift 
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
