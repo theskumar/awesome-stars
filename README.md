@@ -868,6 +868,7 @@
 
 ## Python 
 
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - PaperBanana: Automating Academic Illustration For AI Scientists
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
