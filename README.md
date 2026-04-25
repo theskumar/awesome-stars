@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [ahmedelgabri/git-wt](https://github.com/ahmedelgabri/git-wt) - A git custom command that enhances Git's native worktree functionality with interactive features, automation, and repository migration capabilities.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
