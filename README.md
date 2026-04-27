@@ -509,6 +509,7 @@
 - [nol13/fuzzball.js](https://github.com/nol13/fuzzball.js) - Easy to use and powerful fuzzy string matching, port of fuzzywuzzy.
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [bevacqua/rome](https://github.com/bevacqua/rome) - :calendar: Customizable date (and time) picker. Opt-in UI, no jQuery!
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes React, Vue, Angular and Svelte components, plus TypeScript definitions.
 - [mattburns/exiftool.js](https://github.com/mattburns/exiftool.js) - A pure javascript implementation of exiftool
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
@@ -1913,7 +1914,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [chialab/dna](https://github.com/chialab/dna) - 🧬 Progressive Web Components.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [fregante/fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a &lt;textarea&gt; to fit its content, in a few bytes
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -1969,7 +1970,6 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes React, Vue, Angular and Svelte components, plus TypeScript definitions.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
