@@ -201,7 +201,7 @@
 ## Elixir 
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
 - [whitfin/tiny](https://github.com/whitfin/tiny) - A small, fast and fully compliant JSON parser in Elixir
