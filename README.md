@@ -1703,6 +1703,7 @@
 
 ## Rust 
 
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Lean Cortex -- the cognitive context layer for agentic systems. 51+ MCP tools, 10 read modes, 95+ shell patterns. Up to 99% token savings. Works with Cursor, Claude Code, Copilot, Windsurf, Codex, Gem
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
