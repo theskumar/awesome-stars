@@ -20,6 +20,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [F#](#f#)
 - [Git Attributes](#git-attributes)
 - [Go](#go)
 - [HTML](#html)
@@ -215,6 +216,10 @@
 ## Erlang 
 
 - [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
+
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## Git Attributes 
 
@@ -876,6 +881,7 @@
 
 ## Python 
 
+- [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) - PyMuPDF4LLM
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
