@@ -91,7 +91,6 @@
 - [woltapp/blurhash-python](https://github.com/woltapp/blurhash-python) - Python version of the BlurHash encoder
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
-- [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [kornelski/giflossy](https://github.com/kornelski/giflossy) - Merged into Gifsicle!
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
@@ -247,7 +246,7 @@
 - [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) - Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
-- [jy-tan/fence](https://github.com/jy-tan/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
+- [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [pythongiant/aws-doctor](https://github.com/pythongiant/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1161,6 +1160,7 @@
 - [qzb/markdown-jinja](https://github.com/qzb/markdown-jinja) - Python Markdown extension which adds Jinja2 support
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
 - [ekzhu/SetSimilaritySearch](https://github.com/ekzhu/SetSimilaritySearch) - All-pair set similarity search on millions of sets in Python and on a laptop
 - [RedisGraph/redisgraph-py](https://github.com/RedisGraph/redisgraph-py) - RedisGraph python client
 - [silentsokolov/django-admin-rangefilter](https://github.com/silentsokolov/django-admin-rangefilter) - A Django app that lets you filter data by date range and numeric range in the admin UI
@@ -1424,7 +1424,7 @@
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
 - [RentMethod/celerytest](https://github.com/RentMethod/celerytest) - Run monitored Celery workers for your integration tests
 - [venmo/business-rules](https://github.com/venmo/business-rules) - Python DSL for setting up business intelligence rules that can be configured without code
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [debops/debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [embedly/embedly-python](https://github.com/embedly/embedly-python) - Python lib for Embedly
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
