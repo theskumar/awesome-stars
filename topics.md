@@ -1075,7 +1075,7 @@
 - [Hipo/drf-extra-fields](https://github.com/Hipo/drf-extra-fields) - Extra Fields for Django Rest Framework
 - [aykut/django-bulk-update](https://github.com/aykut/django-bulk-update) - Bulk update using one query over Django ORM
 - [elky/django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [pythonindia/junction](https://github.com/pythonindia/junction) - Junction is a software to manage proposals, reviews, schedule, feedback during conference.
 - [idlesign/django-sitetree](https://github.com/idlesign/django-sitetree) - Reusable application for Django introducing site tree, menu and breadcrumbs navigation elements.
 - [jamesturk/django-markupfield](https://github.com/jamesturk/django-markupfield) - 📑 a MarkupField for Django
@@ -2393,7 +2393,7 @@
 - [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - ⚡Translate Django .po files and model fields with AI. Repeatable, consistent, and pennies per language.
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
 - [PaulKinlan/Co-do](https://github.com/PaulKinlan/Co-do) - Cowork-like experience in the browser using filesystem api
-- [jy-tan/fence](https://github.com/jy-tan/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
+- [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [pythongiant/aws-doctor](https://github.com/pythongiant/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
 - [FarhanAliRaza/k2](https://github.com/FarhanAliRaza/k2) - Ultra-fast Alpine.js alternative powered by TC39 Signals. 3.6KB gzipped, 5-10x faster.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -3588,7 +3588,7 @@
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [daGrevis/mdx_linkify](https://github.com/daGrevis/mdx_linkify) - Link recognition for Python Markdown
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [pythonindia/junction](https://github.com/pythonindia/junction) - Junction is a software to manage proposals, reviews, schedule, feedback during conference.
