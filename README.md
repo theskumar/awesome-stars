@@ -769,7 +769,6 @@
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [ayarotsky/awesome-cloud-security](https://github.com/ayarotsky/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
-- [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
@@ -1975,7 +1974,7 @@
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
 - [Fueled/nodejs-graphql-template](https://github.com/Fueled/nodejs-graphql-template) - Opinionated starter template for NodeJS based GraphQL Server with prisma used at Fueled.
