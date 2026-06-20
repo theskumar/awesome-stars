@@ -84,7 +84,6 @@
 - [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [Florents-Tselai/pgpdf](https://github.com/Florents-Tselai/pgpdf) - pdf type for Postgres
 - [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [woltapp/blurhash-python](https://github.com/woltapp/blurhash-python) - Python version of the BlurHash encoder
@@ -287,6 +286,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -930,7 +930,7 @@
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - File System as Memory, Memory Shapes the Agent
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [kraken-tech/django-pg-migration-tools](https://github.com/kraken-tech/django-pg-migration-tools) - Extra functionalities to make Django migrations safer and more scalable
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
