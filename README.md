@@ -889,6 +889,7 @@
 
 ## Python 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [dizballanze/django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin
@@ -935,7 +936,7 @@
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [kraken-tech/django-pg-migration-tools](https://github.com/kraken-tech/django-pg-migration-tools) - Extra functionalities to make Django migrations safer and more scalable
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
