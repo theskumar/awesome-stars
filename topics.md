@@ -596,7 +596,7 @@
 
 ## claude-code 
 
-- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish local HTML, Markdown, and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
+- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
@@ -1652,7 +1652,7 @@
 
 ## html 
 
-- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish local HTML, Markdown, and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
+- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
@@ -2113,7 +2113,7 @@
 
 ## markdown 
 
-- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish local HTML, Markdown, and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
+- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
@@ -3410,7 +3410,7 @@
 
 ## publishing 
 
-- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish local HTML, Markdown, and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
+- [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
 
 ## pwa 
 
