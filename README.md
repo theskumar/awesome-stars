@@ -1064,7 +1064,7 @@
 - [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [VikParuchuri/tabled](https://github.com/VikParuchuri/tabled) - Detect and extract tables to markdown and csv
 - [janhq/ichigo](https://github.com/janhq/ichigo) - Local realtime voice AI
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [simonw/djp](https://github.com/simonw/djp) - A plugin system for Django
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
