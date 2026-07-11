@@ -341,6 +341,7 @@
 
 ## HTML 
 
+- [gistpreview/gistpreview.github.io](https://github.com/gistpreview/gistpreview.github.io) - Gist HTML Preview
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [FarhanAliRaza/k2](https://github.com/FarhanAliRaza/k2) - Ultra-fast Alpine.js alternative powered by TC39 Signals. 3.6KB gzipped, 5-10x faster.
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
