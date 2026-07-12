@@ -1046,7 +1046,6 @@
 - [leolivier/auto-po-lyglot](https://github.com/leolivier/auto-po-lyglot) - The goal of this project is to use various LLMs to help translate po files using a first already translated file to provide context for short pieces of text otherwise very ambiguous.
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -1927,6 +1926,7 @@
 
 ## TypeScript 
 
+- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [elliotblackburn/mdpdf](https://github.com/elliotblackburn/mdpdf) - Markdown to PDF command line app with support for stylesheets
 - [demigodmode/pi-web-agent](https://github.com/demigodmode/pi-web-agent) - Reliable web tools for Pi: search for sources, fetch over HTTP, and use headless browsing only when explicitly requested.
@@ -1986,6 +1986,7 @@
 - [mark-when/obsidian-plugin](https://github.com/mark-when/obsidian-plugin) - Markwhen obsidian plugin
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [YZarytskyi/react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) - React library for audio recording and visualization using the Web Audio API
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
