@@ -2529,7 +2529,7 @@
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [patroza/HyprSpace](https://github.com/patroza/HyprSpace) - Hyprland for MacOS - heavily modified Aerospace
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
-- [yassi/dj-cache-panel](https://github.com/yassi/dj-cache-panel) - A universal cache inspector for Django.
+- [django-control-room/dj-cache-panel](https://github.com/django-control-room/dj-cache-panel) - A universal cache inspector for Django.
 - [quertenmont/django-sequencefield](https://github.com/quertenmont/django-sequencefield) - Additional field from django taking it's value from a postgresql sequence.  It is similar to django AutoField, except that multiple model can share ids from a single sequence
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
@@ -2540,7 +2540,7 @@
 - [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
 - [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras) - Useful CSS custom functions using the new @​function rule
 - [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
-- [yassi/dj-redis-panel](https://github.com/yassi/dj-redis-panel) - Django admin interface for redis
+- [django-control-room/dj-redis-panel](https://github.com/django-control-room/dj-redis-panel) - Django admin interface for redis
 - [ri-sh/Form16x](https://github.com/ri-sh/Form16x) - 
 - [orchidjs/sifter.js](https://github.com/orchidjs/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
 - [defrex/django-after-response](https://github.com/defrex/django-after-response) - Simple asynchronous execution
