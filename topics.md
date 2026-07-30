@@ -1767,7 +1767,7 @@
 
 ## icon-font 
 
-- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 
