@@ -2466,6 +2466,7 @@
 
 ## others 
 
+- [surendranb/agents.md](https://github.com/surendranb/agents.md) - Sharing parts of my agents.md
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
@@ -3969,6 +3970,7 @@
 
 ## rust 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
