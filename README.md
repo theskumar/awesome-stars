@@ -233,6 +233,7 @@
 
 ## Go 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1944,6 +1945,7 @@
 
 ## TypeScript 
 
+- [Halloweedev/usagepal](https://github.com/Halloweedev/usagepal) - Track all your AI coding subscriptions from your menu bar. Open-source fork of OpenUsage. macOS, Rust + Tauri.
 - [nicobailon/pi-prompt-template-model](https://github.com/nicobailon/pi-prompt-template-model) - Pi extension: Add model frontmatter to prompt templates for automatic model switching
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend
