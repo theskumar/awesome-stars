@@ -2467,6 +2467,7 @@
 
 ## others 
 
+- [kenn-io/constitution](https://github.com/kenn-io/constitution) - Versioned operating principles for coding agents
 - [Halloweedev/usagepal](https://github.com/Halloweedev/usagepal) - Track all your AI coding subscriptions from your menu bar. Open-source fork of OpenUsage. macOS, Rust + Tauri.
 - [surendranb/agents.md](https://github.com/surendranb/agents.md) - Sharing parts of my agents.md
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
