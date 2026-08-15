@@ -898,6 +898,7 @@
 
 ## Python 
 
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
@@ -941,7 +942,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
 - [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - ⚡Translate Django .po files and model fields with AI. Repeatable, consistent, and pennies per language.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -1062,7 +1063,7 @@
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python.
@@ -1715,6 +1716,7 @@
 
 ## Ruby 
 
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your chat logs and inboxes.
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
