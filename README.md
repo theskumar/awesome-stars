@@ -780,6 +780,7 @@
 
 ## Others 
 
+- [darylldoyle/html-report](https://github.com/darylldoyle/html-report) - Turn agent output into something a person will actually read. Self-contained, on-brand HTML reports focused by a lens and shaped by a projection.
 - [kenn-io/constitution](https://github.com/kenn-io/constitution) - Versioned operating principles for coding agents
 - [surendranb/agents.md](https://github.com/surendranb/agents.md) - Sharing parts of my agents.md
 - [deemuk123/steno](https://github.com/deemuk123/steno) - steno is a Rust-based tool that compresses text before it reaches LLMs, reducing token cost and saving context space. It removes noise, shortens common phrases, and abbreviates domain terms. Fully rev
@@ -1926,7 +1927,7 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
-- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
+- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [patroza/HyprSpace](https://github.com/patroza/HyprSpace) - Hyprland for MacOS - heavily modified Aerospace
