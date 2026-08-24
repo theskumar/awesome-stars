@@ -781,6 +781,7 @@
 
 ## Others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [darylldoyle/html-report](https://github.com/darylldoyle/html-report) - Turn agent output into something a person will actually read. Self-contained, on-brand HTML reports focused by a lens and shaped by a projection.
 - [kenn-io/constitution](https://github.com/kenn-io/constitution) - Versioned operating principles for coding agents
 - [surendranb/agents.md](https://github.com/surendranb/agents.md) - Sharing parts of my agents.md
@@ -1019,7 +1020,7 @@
 - [mgd020/mjml-python](https://github.com/mgd020/mjml-python) - A python library for MJML - a framework that makes responsive-email easy
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
 - [simonw/llm-hacker-news](https://github.com/simonw/llm-hacker-news) - LLM plugin for pulling content from Hacker News
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
 - [zobweyt/textcase](https://github.com/zobweyt/textcase) - Python library for text case conversions (https://pypi.org/project/textcase)
@@ -1091,7 +1092,7 @@
 - [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
-- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer) - PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
+- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer) - PostgreSQL-backed background job and task queue for Python.
 - [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [edent/Tweet2Embed](https://github.com/edent/Tweet2Embed) - Convert a public Tweet into embedded semantic HTML
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
@@ -1919,7 +1920,7 @@
 
 ## Swift 
 
-- [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
+- [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli - agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
@@ -1935,7 +1936,7 @@
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Fast Markdown note-taking app for Mac and iPhone
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
