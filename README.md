@@ -455,7 +455,7 @@
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [aws-actions/aws-codebuild-run-build](https://github.com/aws-actions/aws-codebuild-run-build) - Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.
 - [orchidjs/sifter.js](https://github.com/orchidjs/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -781,6 +781,7 @@
 
 ## Others 
 
+- [viewflow/seedkit](https://github.com/viewflow/seedkit) - Build any Django app — from a SaaS to a dashboard to an API — from a single sentence. An agent skill that wires packages, splits dev/prod settings, and adds CI.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [darylldoyle/html-report](https://github.com/darylldoyle/html-report) - Turn agent output into something a person will actually read. Self-contained, on-brand HTML reports focused by a lens and shaped by a projection.
 - [kenn-io/constitution](https://github.com/kenn-io/constitution) - Versioned operating principles for coding agents
@@ -901,6 +902,8 @@
 
 ## Python 
 
+- [aliceisjustplaying/claude-paint](https://github.com/aliceisjustplaying/claude-paint) - Teaching claudes to paint
+- [ambient-innovation/django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails for django shipping with a test suite
 - [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report) - Which of your dependencies block a Django upgrade, and in which order to upgrade them.
 - [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
 - [hynek/bgt](https://github.com/hynek/bgt) - Fault-tolerant background threads for Python
@@ -1758,7 +1761,7 @@
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI systems.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1814,7 +1817,7 @@
 - [joshuadavidthomas/django-language-server](https://github.com/joshuadavidthomas/django-language-server) - A language server for the Django web framework
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1963,6 +1966,8 @@
 
 ## TypeScript 
 
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [nicobailon/dot314](https://github.com/nicobailon/dot314) - Pi extensions
 - [vigolium/piolium](https://github.com/vigolium/piolium) - A Pi-native extension for thorough, agentic security audits
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
