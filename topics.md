@@ -2555,7 +2555,7 @@
 
 - [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi) - A tiny TypeScript web agent, hill climbed on real browser evals.
-- [aliceisjustplaying/claude-paint](https://github.com/aliceisjustplaying/claude-paint) - Teaching claudes to paint
+- [aliceisjustplaying/claude-paint](https://github.com/aliceisjustplaying/claude-paint) - Teaching claudes how to paint
 - [hynek/bgt](https://github.com/hynek/bgt) - Fault-tolerant background threads for Python
 - [jmcblane/PiG](https://github.com/jmcblane/PiG) - PiG is a GUI written in swift for the pi coding agent
 - [nicobailon/dot314](https://github.com/nicobailon/dot314) - Pi extensions
