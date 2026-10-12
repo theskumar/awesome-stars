@@ -753,7 +753,7 @@
 
 ## Lua 
 
-- [aliceisjustplaying/claude-paint](https://github.com/aliceisjustplaying/claude-paint) - Teaching claudes to paint
+- [aliceisjustplaying/claude-paint](https://github.com/aliceisjustplaying/claude-paint) - Teaching claudes how to paint
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 
 ## MATLAB 
