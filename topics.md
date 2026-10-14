@@ -271,7 +271,6 @@
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [alejandroqh/browser39](https://github.com/alejandroqh/browser39) - A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-efficient Markdown.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
@@ -287,6 +286,7 @@
 
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [alejandroqh/browser39](https://github.com/alejandroqh/browser39) - A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-efficient Markdown.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -329,7 +329,6 @@
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -389,6 +388,7 @@
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -657,7 +657,6 @@
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -684,7 +683,7 @@
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [Amal-David/pagecast](https://github.com/Amal-David/pagecast) - Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
@@ -708,7 +707,7 @@
 ## claude-skills 
 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -818,7 +817,6 @@
 
 ## coding 
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## command-line 
@@ -1040,7 +1038,6 @@
 
 ## design 
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1461,7 +1458,7 @@
 
 ## frontend 
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -3640,7 +3637,7 @@
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
 - [can1357/notionfs](https://github.com/can1357/notionfs) - Local-first sync for Notion. Work with pages as markdown files.
 - [wool-labs/wool](https://github.com/wool-labs/wool) - Distributed Python made simple.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
@@ -3910,7 +3907,7 @@
 - [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storing ad-hoc JSON data
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [Lispython/human_curl](https://github.com/Lispython/human_curl) - Simple Human wrapper for cURL library
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
@@ -4449,7 +4446,6 @@
 - [jasonmayes/Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter 1.1 API. Pure JavaScript! By Jason Mayes
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 
 ## typescript 
@@ -4515,6 +4511,7 @@
 
 ## ui-design 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
