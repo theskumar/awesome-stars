@@ -776,7 +776,6 @@
 ## Objective-C 
 
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-- [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 
 ## Others 
@@ -1754,6 +1753,7 @@
 
 ## Rust 
 
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -1957,6 +1957,7 @@
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Fast Markdown note-taking app for Mac and iPhone
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+- [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 
 ## TeX 
