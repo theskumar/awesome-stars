@@ -1081,6 +1081,7 @@
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+- [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 
@@ -1235,6 +1236,7 @@
 - [jpadilla/django-jwt-auth](https://github.com/jpadilla/django-jwt-auth) - JSON Web Token Authentication support for Django
 - [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai) - Django Template Blocks with extra functionality
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
+- [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [arthurk/django-disqus](https://github.com/arthurk/django-disqus) - Integrates DISQUS into Django
 - [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
 - [sveetch/crispy-forms-foundation](https://github.com/sveetch/crispy-forms-foundation) - Django application to add 'django-crispy-forms' layout objects for Foundation
@@ -2377,6 +2379,7 @@
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -3183,7 +3186,6 @@
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 - [djangonauts/django-hstore](https://github.com/djangonauts/django-hstore) - PostgreSQL HStore support for Django.
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
-- [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [twaddington/django-gravatar](https://github.com/twaddington/django-gravatar) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
 - [etalab/youckan](https://github.com/etalab/youckan) - Django-based SSO
 - [sbaechler/django-scaffolding](https://github.com/sbaechler/django-scaffolding) - Creates placeholder data for your app
@@ -4268,6 +4270,7 @@
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 
 ## sql-server 
