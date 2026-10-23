@@ -382,6 +382,7 @@
 ## ai-agents 
 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue) - Local merge queue for parallel Claude Code agents
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
@@ -431,7 +432,7 @@
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
@@ -1189,7 +1190,7 @@
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [orsinium-archive/django-bruteforce-protection](https://github.com/orsinium-archive/django-bruteforce-protection) - Bruteforce protection for Django projects based on Redis. Simple, powerful, extendable.
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
-- [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
+- [django-commons/django-auditlog](https://github.com/django-commons/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [adamalton/django-csp-reports](https://github.com/adamalton/django-csp-reports) - Django app for handling browser reports from Content Security Policy violations
 - [lionheart/django-pwnedpasswords-validator](https://github.com/lionheart/django-pwnedpasswords-validator) - Django password validator that checks for passwords in known data breaches.
@@ -1257,7 +1258,7 @@
 - [jpadilla/django-dotenv](https://github.com/jpadilla/django-dotenv) - Loads environment variables from .env
 - [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storing ad-hoc JSON data
 - [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions) - Session backend for Django that stores sessions in a Redis database
-- [jazzband/django-avatar](https://github.com/jazzband/django-avatar) - A Django app for handling user avatars.
+- [fiduswriter/django-avatar](https://github.com/fiduswriter/django-avatar) - A Django app for handling user avatars.
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [revsys/django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
 - [dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - :honey_pot: A fake Django admin login screen page.
@@ -2114,6 +2115,7 @@
 ## linux 
 
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
@@ -2138,6 +2140,7 @@
 ## llm 
 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
@@ -2569,7 +2572,7 @@
 
 ## others 
 
-- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to br
+- [silships/figma-cli](https://github.com/silships/figma-cli) - 
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod.
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [lucasmeijer/AgentsInTheCloud](https://github.com/lucasmeijer/AgentsInTheCloud) - 
@@ -2643,7 +2646,7 @@
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [ayarotsky/awesome-cloud-security](https://github.com/ayarotsky/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray
@@ -2803,7 +2806,7 @@
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [hyoban/tailwindcss-icons](https://github.com/hyoban/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [joelparkerhenderson/principles](https://github.com/joelparkerhenderson/principles) - Principles: summaries of ethical prinicples, leadership principles, teamwork principles, ui/ux design principles, software programming principles, etc.
-- [theskumar/til](https://github.com/theskumar/til) - A collection of useful things I've learned.
+- [theskumar/til](https://github.com/theskumar/til) - Moved: now lives in theskumar/theskumar.github.com under til/
 - [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -3048,7 +3051,7 @@
 - [dropbox/python-zxcvbn](https://github.com/dropbox/python-zxcvbn) - A realistic password strength estimator.
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
-- [jazzband/django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django rest auth
+- [django-commons/django-rest-knox](https://github.com/django-commons/django-rest-knox) - Authentication Module for django rest auth
 - [niwinz/django-sites](https://github.com/niwinz/django-sites) - Alternative implementation of django "sites" framework based on settings instead of models.
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [avinassh/status](https://github.com/avinassh/status) - HTTP Status for Humans
@@ -3149,7 +3152,7 @@
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [niwinz/djorm-pgarray](https://github.com/niwinz/djorm-pgarray) - PostgreSQL array field for Django.
 - [mozilla-releng/redo](https://github.com/mozilla-releng/redo) - Utilities to retry Python callables
-- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - Django model and form fields for normalized phone numbers using python-phonenumbers
 - [kaleidos/django-sampledatahelper](https://github.com/kaleidos/django-sampledatahelper) - Helper class for generate sample data for django apps development.
 - [niwinz/django-jinja](https://github.com/niwinz/django-jinja) - Simple and nonobstructive jinja2 integration with Django.
 - [mozilla/zamboni](https://github.com/mozilla/zamboni) - Backend for the Firefox Marketplace
@@ -3422,7 +3425,6 @@
 - [airbnb/infinity](https://github.com/airbnb/infinity) - UITableViews for the web (DEPRECATED)
 - [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.
 - [ftlabs/ftcolumnflow](https://github.com/ftlabs/ftcolumnflow) - A polyfill that fixes the inadequacies of CSS column layouts
-- [dryan/admin_bootstrap](https://github.com/dryan/admin_bootstrap) - Django admin templates that are compatible with Twitter Bootstrap version 2.
 - [bradfrost/this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
 - [theskumar-archive/jquery.formbuilder](https://github.com/theskumar-archive/jquery.formbuilder) - A jQuery plugin for building forms, loading form structure from xml, and saving back to the server.
 - [kimjoar/writings](https://github.com/kimjoar/writings) - My blog posts
@@ -3773,7 +3775,7 @@
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 - [scour-project/scour](https://github.com/scour-project/scour) - Scour - An SVG Optimizer / Cleaner
-- [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
+- [django-commons/django-auditlog](https://github.com/django-commons/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [adamalton/django-csp-reports](https://github.com/adamalton/django-csp-reports) - Django app for handling browser reports from Content Security Policy violations
@@ -3931,7 +3933,7 @@
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
-- [jazzband/django-avatar](https://github.com/jazzband/django-avatar) - A Django app for handling user avatars.
+- [fiduswriter/django-avatar](https://github.com/fiduswriter/django-avatar) - A Django app for handling user avatars.
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [revsys/django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -4104,6 +4106,7 @@
 
 ## rust 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX is the Context Gateway for AI Systems. Select task-relevant context, apply supported controls, connect local knowledge and inspect recorded evidence. Open-source Engine: CLI, MCP, hooks and su
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
@@ -4292,6 +4295,7 @@
 
 ## sqlite 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook) - A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summaries, and serves a browsable web UI for your engineering journal.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
@@ -4308,7 +4312,7 @@
 
 ## statistics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 
@@ -4545,6 +4549,7 @@
 
 ## video 
 
+- [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) - programmatic video rendering framework that is actually fast
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
