@@ -1382,7 +1382,7 @@
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
 - [bendavis78/django-template-email](https://github.com/bendavis78/django-template-email) - A useful tool for building email messages using django templates
 - [python-hyper/brotlicffi](https://github.com/python-hyper/brotlicffi) - Python bindings to the Brotli compression library
-- [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
+- [django-commons/django-widget-tweaks](https://github.com/django-commons/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [LilyFirefly/rest-framework-generic-relations](https://github.com/LilyFirefly/rest-framework-generic-relations) - 
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
@@ -1974,6 +1974,7 @@
 
 ## TypeScript 
 
+- [ivarvong/lantern](https://github.com/ivarvong/lantern) - Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue) - Local merge queue for parallel Claude Code agents
 - [lucasmeijer/AgentsInTheCloud](https://github.com/lucasmeijer/AgentsInTheCloud) - 
