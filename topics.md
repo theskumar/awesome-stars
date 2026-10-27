@@ -315,7 +315,7 @@
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
@@ -360,7 +360,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -410,7 +410,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -1071,7 +1071,7 @@
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1150,7 +1150,7 @@
 - [adamghill/django-new](https://github.com/adamghill/django-new) - Create new Django applications with pizazz. 🚀
 - [efe/dj-translatemessages](https://github.com/efe/dj-translatemessages) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
-- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
+- [chanx-dev/chanx](https://github.com/chanx-dev/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [adamghill/dj-toml-settings](https://github.com/adamghill/dj-toml-settings) - Load Django settings from a TOML file
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [Archmonger/ServeStatic](https://github.com/Archmonger/ServeStatic) - Production-grade Python static file server. Middleware or standalone.
@@ -1410,7 +1410,7 @@
 - [ZhengyiLuo/AgentsServer](https://github.com/ZhengyiLuo/AgentsServer) - 
 - [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
-- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
+- [chanx-dev/chanx](https://github.com/chanx-dev/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 
@@ -1741,6 +1741,7 @@
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [P403n1x87/pytest-austin](https://github.com/P403n1x87/pytest-austin) - Python Performance Testing with Austin
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3710,7 +3711,7 @@
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
@@ -3735,7 +3736,7 @@
 - [justinmayer/django-elevate](https://github.com/justinmayer/django-elevate) - Protect your sensitive Django views by requiring re-authentication
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
-- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
+- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - Build Python performance test suites with Locust and pytest
 - [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [sandes/zipfly](https://github.com/sandes/zipfly) - Python Zip Stream
@@ -4484,6 +4485,7 @@
 
 ## typescript 
 
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) - QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.
 - [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook) - A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summaries, and serves a browsable web UI for your engineering journal.
 - [demigodmode/pi-web-agent](https://github.com/demigodmode/pi-web-agent) - Reliable web tools for Pi: search for sources, fetch over HTTP, and use headless browsing only when explicitly requested.
