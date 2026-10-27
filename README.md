@@ -435,6 +435,7 @@
 
 ## JavaScript 
 
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [silships/figma-cli](https://github.com/silships/figma-cli) - 
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod.
 - [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi) - A tiny TypeScript web agent, hill climbed on real browser evals.
@@ -1004,7 +1005,7 @@
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
-- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
+- [chanx-dev/chanx](https://github.com/chanx-dev/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [YasserShkeir/django-smart-ratelimit](https://github.com/YasserShkeir/django-smart-ratelimit) - A flexible and efficient rate limiting library for Django applications
 - [django-control-room/dj-redis-panel](https://github.com/django-control-room/dj-redis-panel) - Django admin interface for redis
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1073,7 +1074,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 - [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
@@ -1134,7 +1135,7 @@
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
-- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
+- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - Build Python performance test suites with Locust and pytest
 - [adamchainz/heroicons](https://github.com/adamchainz/heroicons) - Use heroicons in your Django and Jinja templates.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
