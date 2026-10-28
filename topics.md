@@ -221,6 +221,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
+- [skills](#skills)
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
@@ -1236,7 +1237,7 @@
 - [Hipo/drf-extra-fields](https://github.com/Hipo/drf-extra-fields) - Extra Fields for Django Rest Framework
 - [aykut/django-bulk-update](https://github.com/aykut/django-bulk-update) - Bulk update using one query over Django ORM
 - [elky/django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
-- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
+- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
 - [pythonindia/junction](https://github.com/pythonindia/junction) - Junction is a software to manage proposals, reviews, schedule, feedback during conference.
 - [idlesign/django-sitetree](https://github.com/idlesign/django-sitetree) - Reusable application for Django introducing site tree, menu and breadcrumbs navigation elements.
 - [jamesturk/django-markupfield](https://github.com/jamesturk/django-markupfield) - 📑 a MarkupField for Django
@@ -3879,7 +3880,7 @@
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
-- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
+- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
 - [daGrevis/mdx_linkify](https://github.com/daGrevis/mdx_linkify) - Link recognition for Python Markdown
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [pythonindia/junction](https://github.com/pythonindia/junction) - Junction is a software to manage proposals, reviews, schedule, feedback during conference.
@@ -4285,6 +4286,18 @@
 - [DWilliames/paddy-sketch-plugin](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers
 - [Iconscout/iconscout-plugins](https://github.com/Iconscout/iconscout-plugins) - Get access to 4.1 million+ design resources right inside Adobe Xd, Figma, Sketch, Microsoft Office, G Suite and many more.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+
+## skills 
+
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 
 ## sql 
 
