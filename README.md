@@ -1472,7 +1472,7 @@
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
 - [RentMethod/celerytest](https://github.com/RentMethod/celerytest) - Run monitored Celery workers for your integration tests
 - [venmo/business-rules](https://github.com/venmo/business-rules) - Python DSL for setting up business intelligence rules that can be configured without code
-- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
+- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
 - [debops/debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [embedly/embedly-python](https://github.com/embedly/embedly-python) - Python lib for Embedly
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
