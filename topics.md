@@ -3011,7 +3011,7 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 - [twoscoops/two-scoops-of-django-1.11](https://github.com/twoscoops/two-scoops-of-django-1.11) - The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
-- [jazzband/django-sortedm2m](https://github.com/jazzband/django-sortedm2m) - A transparent sorted ManyToMany field for django.
+- [django-commons/django-sortedm2m](https://github.com/django-commons/django-sortedm2m) - A transparent sorted ManyToMany field for django.
 - [whitfin/tiny](https://github.com/whitfin/tiny) - A small, fast and fully compliant JSON parser in Elixir
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
