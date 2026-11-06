@@ -161,7 +161,6 @@
 - [ksmandersen/compass-normalize](https://github.com/ksmandersen/compass-normalize) - A compass plugin for using normalize.css
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
@@ -285,7 +284,6 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [github/gh-models](https://github.com/github/gh-models) - CLI extension for the GitHub Models service
 - [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (+ Starlark expressions)
-- [pgstack-io/pgstack](https://github.com/pgstack-io/pgstack) - Postgres read replicas for Search and Audit
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [rosszurowski/tandem](https://github.com/rosszurowski/tandem) - Parallel task runner for servers and long-running commands.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -294,6 +292,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -366,7 +365,6 @@
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Chris-May/django_playwright_pytest_example](https://github.com/Chris-May/django_playwright_pytest_example) - Example project to show how I set up Pytest, Playwright, and Django
 - [samwillis/x-style](https://github.com/samwillis/x-style) - x-style (Extract Style) - A Tiny Inline Nested CSS Library
 - [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
@@ -481,6 +479,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -654,6 +653,7 @@
 - [zoltan-dulac/html5Forms.js](https://github.com/zoltan-dulac/html5Forms.js) - Implements a subset of the HTML5 Forms module, including calendars, colour swatches, sliding widgets, client side validation and more.
 - [peachananr/onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 - [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
+- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [joemaddalone/ng-filltext](https://github.com/joemaddalone/ng-filltext) - An AngularJS directive for filltext.com
 - [siygle/grunt-autoshot](https://github.com/siygle/grunt-autoshot) - Create a quick screenshot for your site which could help for document or testing
@@ -936,7 +936,7 @@
 - [dizballanze/django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin
 - [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) - PyMuPDF4LLM
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - PaperBanana: Automating Academic Illustration For AI Scientists
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
@@ -1338,7 +1338,7 @@
 - [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox's realistic password strength estimator
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 - [twoscoops/two-scoops-of-django-1.11](https://github.com/twoscoops/two-scoops-of-django-1.11) - The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
-- [jazzband/django-sortedm2m](https://github.com/jazzband/django-sortedm2m) - A transparent sorted ManyToMany field for django.
+- [django-commons/django-sortedm2m](https://github.com/django-commons/django-sortedm2m) - A transparent sorted ManyToMany field for django.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
@@ -2057,6 +2057,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [YZarytskyi/react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) - React library for audio recording and visualization using the Web Audio API
+- [pgstack-io/pgstack](https://github.com/pgstack-io/pgstack) - Temporary recorded access to PostgreSQL
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
@@ -2072,7 +2073,6 @@
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Sentry for Development
 - [hyoban/tailwindcss-icons](https://github.com/hyoban/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
