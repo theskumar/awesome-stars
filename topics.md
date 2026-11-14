@@ -285,7 +285,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## agent-skills 
@@ -314,7 +314,7 @@
 - [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow + Littlebird alternative)
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code, Hermes) into self-contained, embeddable HTML  replays
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -324,9 +324,9 @@
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
 
@@ -369,7 +369,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -390,6 +390,7 @@
 
 ## ai-agents 
 
+- [Christopher-Schulze/MailCLI](https://github.com/Christopher-Schulze/MailCLI) - Agent-first, fast CLI for reading, searching, composing, and organizing accounts configured in macOS Mail. Let your agent read & write your mails.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -421,7 +422,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
@@ -521,6 +522,7 @@
 
 ## automation 
 
+- [Christopher-Schulze/MailCLI](https://github.com/Christopher-Schulze/MailCLI) - Agent-first, fast CLI for reading, searching, composing, and organizing accounts configured in macOS Mail. Let your agent read & write your mails.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [ZhengyiLuo/AgentsServer](https://github.com/ZhengyiLuo/AgentsServer) - 
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -697,7 +699,7 @@
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -760,6 +762,7 @@
 
 ## cli 
 
+- [Christopher-Schulze/MailCLI](https://github.com/Christopher-Schulze/MailCLI) - Agent-first, fast CLI for reading, searching, composing, and organizing accounts configured in macOS Mail. Let your agent read & write your mails.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report) - Which of your dependencies block a Django upgrade, and in which order to upgrade them.
 - [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
@@ -773,7 +776,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -983,7 +986,7 @@
 
 ## data 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 ## data-analysis 
@@ -1106,7 +1109,7 @@
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1286,7 +1289,7 @@
 - [sveetch/crispy-forms-foundation](https://github.com/sveetch/crispy-forms-foundation) - Django application to add 'django-crispy-forms' layout objects for Foundation
 - [codingjoe/django-stdimage](https://github.com/codingjoe/django-stdimage) - Django Standardized Image Field
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
@@ -1389,7 +1392,7 @@
 ## elixir 
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1598,6 +1601,7 @@
 
 ## go 
 
+- [Christopher-Schulze/MailCLI](https://github.com/Christopher-Schulze/MailCLI) - Agent-first, fast CLI for reading, searching, composing, and organizing accounts configured in macOS Mail. Let your agent read & write your mails.
 - [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -1946,7 +1950,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -2287,6 +2291,7 @@
 
 ## macos 
 
+- [Christopher-Schulze/MailCLI](https://github.com/Christopher-Schulze/MailCLI) - Agent-first, fast CLI for reading, searching, composing, and organizing accounts configured in macOS Mail. Let your agent read & write your mails.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
@@ -2344,7 +2349,7 @@
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [can1357/notionfs](https://github.com/can1357/notionfs) - Local-first sync for Notion. Work with pages as markdown files.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
@@ -2580,7 +2585,7 @@
 ## obsidian 
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [Gonzalo-D-Sales/obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -2638,6 +2643,8 @@
 
 ## others 
 
+- [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
+- [nicobailon/pi-better](https://github.com/nicobailon/pi-better) - /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, and puts it in your input box
 - [RoRep1ay/django-n-1-jev](https://github.com/RoRep1ay/django-n-1-jev) - 
 - [garrytan/designcraft](https://github.com/garrytan/designcraft) - DesignCraft: An open-source page and layout design editor written by scratch in pure Rust
 - [anomalyco/grim](https://github.com/anomalyco/grim) - Don't think for yourself
@@ -3508,7 +3515,7 @@
 - [theskumar-archive/reveal.js](https://github.com/theskumar-archive/reveal.js) - A simple jquery script to add a overlay on the page load which user can erase to reveal the content inside.
 - [srobbin/jquery-intelligist](https://github.com/srobbin/jquery-intelligist) - a jQuery plugin that makes it easy to share and demo code in-page, using GitHub gists.
 - [jgauffin/griffin.editor](https://github.com/jgauffin/griffin.editor) - jQuery text editor supporting markdown
-- [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
+- [django-commons/django-recurrence](https://github.com/django-commons/django-recurrence) - Utility for working with recurring dates in Django.
 - [theskumar-archive/php-markdown](https://github.com/theskumar-archive/php-markdown) - PHP Markdown is a port to PHP of the Markdown perl script by John Grubber; PHP Markdown Extra adds new features to Markdown and is maintained in a separate "extra" branch.
 - [fofr/css-experiments](https://github.com/fofr/css-experiments) - CSS, HTML and JS experiments from 2010
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
@@ -3637,7 +3644,7 @@
 ## privacy 
 
 - [ikhattab/md-preview](https://github.com/ikhattab/md-preview) - A fast, private, browser-only markdown editor with live preview, math, and Mermaid diagrams.
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your chat logs and inboxes.
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Read-only mirror of https://gitlab.com/onetimesecret/onetimesecret (development, issues and merge requests are there). Keep passwords and other sensitive information out of your chat logs and inboxes.
 - [Lorenzo-Coslado/fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js) - Open-source browser fingerprinting for JavaScript and TypeScript: local SHA-256 fingerprints, typed diagnostics, and automation signals.
 - [photo-cli/photo-cli](https://github.com/photo-cli/photo-cli) - A photo organizer for your file system without sticking to any application or vendor. Extract when and where (reverse geocoding) your photos are taken, archive or copy into a new organized folder with
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
@@ -3774,7 +3781,7 @@
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
@@ -3980,7 +3987,7 @@
 - [sloria/konch](https://github.com/sloria/konch) - Configures your Python shell.
 - [bfontaine/term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
 - [codingjoe/django-stdimage](https://github.com/codingjoe/django-stdimage) - Django Standardized Image Field
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
@@ -4355,7 +4362,7 @@
 
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
