@@ -983,7 +983,6 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ashenfad/calgebra](https://github.com/ashenfad/calgebra) - Set operations for calendar intervals
-- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [knifecake/steady-queue](https://github.com/knifecake/steady-queue) - A DB-backed task backend for Django
 - [anistark/ty](https://github.com/anistark/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
@@ -1736,7 +1735,7 @@
 
 ## Ruby 
 
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your chat logs and inboxes.
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Read-only mirror of https://gitlab.com/onetimesecret/onetimesecret (development, issues and merge requests are there). Keep passwords and other sensitive information out of your chat logs and inboxes.
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
@@ -1761,6 +1760,7 @@
 
 ## Rust 
 
+- [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
 - [garrytan/designcraft](https://github.com/garrytan/designcraft) - DesignCraft: An open-source page and layout design editor written by scratch in pure Rust
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) - programmatic video rendering framework that is actually fast
@@ -1980,6 +1980,7 @@
 
 ## TypeScript 
 
+- [nicobailon/pi-better](https://github.com/nicobailon/pi-better) - /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, and puts it in your input box
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
 - [anomalyco/grim](https://github.com/anomalyco/grim) - Don't think for yourself
@@ -2026,6 +2027,7 @@
 - [PaulKinlan/Co-do](https://github.com/PaulKinlan/Co-do) - Cowork-like experience in the browser using filesystem api
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [gjtorikian/gh-actions-lockfile](https://github.com/gjtorikian/gh-actions-lockfile) - Generate and verify lockfiles for GitHub Actions dependencies.
