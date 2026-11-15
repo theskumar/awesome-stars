@@ -1980,6 +1980,7 @@
 
 ## TypeScript 
 
+- [nikuscs/painterly](https://github.com/nikuscs/painterly) - 🎨 Paint gouache-style illustrations in TypeScript: dry brush strokes, paper grain and hand-lettered captions, all generated in code.
 - [nicobailon/pi-better](https://github.com/nicobailon/pi-better) - /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, and puts it in your input box
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
