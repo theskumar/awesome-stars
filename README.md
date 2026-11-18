@@ -248,7 +248,7 @@
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [kurtisvg/skillful-mcp](https://github.com/kurtisvg/skillful-mcp) - 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -300,7 +300,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1300,7 +1300,7 @@
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
-- [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
+- [django-commons/django-taggit](https://github.com/django-commons/django-taggit) - Simple tagging for django
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [olucurious/PyFCM](https://github.com/olucurious/PyFCM) - Python client for FCM - Firebase Cloud Messaging (Android, iOS and Web)
 - [Pr0Ger/PyAPNs2](https://github.com/Pr0Ger/PyAPNs2) - Python library for interacting with the Apple Push Notification service (APNs) via HTTP/2 protocol
