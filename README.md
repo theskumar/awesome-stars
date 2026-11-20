@@ -69,7 +69,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## Blade 
 
@@ -270,7 +270,6 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Skarlso/adventure-voter](https://github.com/Skarlso/adventure-voter) - Choose your own adventure style Presentation framework.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -300,7 +299,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -709,6 +708,7 @@
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 - [Gottox/jQR](https://github.com/Gottox/jQR) - Generates a QR-Code in Plain Javascript using canvas
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [christianvuerings/jquery-lifestream](https://github.com/christianvuerings/jquery-lifestream) - Show a stream of your online activity with jQuery
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
@@ -769,7 +769,6 @@
 
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1623,7 +1622,7 @@
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [kracekumar/ipynb2viewer](https://github.com/kracekumar/ipynb2viewer) - Upload `.ipynb` files  to gist.github.com as anonymous user and returns nbviewr url.
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
-- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
+- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can!
 - [jpadilla/django-dotenv](https://github.com/jpadilla/django-dotenv) - Loads environment variables from .env
 - [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storing ad-hoc JSON data
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -2035,6 +2034,7 @@
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [joelparkerhenderson/radar](https://github.com/joelparkerhenderson/radar) - Radar: the Thoughtworks Technology Radar concept, generalized and implemented with TypeScript and D3
 - [Dancode-188/synckit](https://github.com/Dancode-188/synckit) - Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence.
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
